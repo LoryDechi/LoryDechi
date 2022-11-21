@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, i'm Lorenzo👋
+<img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="400"/>
 
 <!--
 **LoryDechi/LoryDechi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
